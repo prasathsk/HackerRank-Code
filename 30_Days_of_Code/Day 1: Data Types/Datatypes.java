@@ -14,10 +14,7 @@ public class Datatypes {
         String c1 = scan.nextLine();
         /* Declare second integer, double, and String variables. */
 
-        /* Read and save an integer, double, and String to your variables.*/
-        // Note: If you have trouble reading the entire String, please go back and review the Tutorial closely.
-
-            //print 
+            //print the output
             System.out.println(a+a1);
             System.out.println(b+b1);
             System.out.println(c+c1);
